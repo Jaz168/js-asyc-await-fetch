@@ -1,0 +1,25 @@
+[
+   {
+       "nombre":"Sara",
+       "apellido":"Mendez",
+       "Telefono":"7717653489"
+   },
+
+   {
+    "nombre":"Dulce",
+    "apellido":"Badillo",
+    "Telefono":"7717653100"
+},
+
+{
+    "nombre":"Lourdes",
+    "apellido":"Rojas",
+    "Telefono":"771765908"
+},
+
+{
+    "nombre":"Arturo",
+    "apellido":"Torres",
+    "Telefono":"7717653597"
+} 
+]
